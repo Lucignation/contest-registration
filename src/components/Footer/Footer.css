@@ -1,0 +1,15 @@
+.footer a{
+    color:  #3a3a3a;
+    text-decoration: none;
+}
+
+.footer{
+    color:  #3a3a3a;
+    line-height: 1;
+    font-style: italic;
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+    font-size: 14px;
+}
+
